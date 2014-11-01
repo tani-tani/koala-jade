@@ -81,6 +81,10 @@ JadeCompiler.prototype.compileWithLib = function (file, emitter) {
 			if(settings.prettyHtml) {
 				options.pretty = settings.prettyHtml;
 			}
+			
+			options.basedir = path.dirname(file.src);
+			options.filename = 'base';
+			
 			html = jade.render(code, options );
 		} catch (e) {
 			triggerError(e.message);

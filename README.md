@@ -13,8 +13,10 @@ How to build
     * jade.png
     * JadeCompiler.js
     * LICENSE
-    * package.js
+    * package.json
 4. rename zip to `jade.koala-compiler`.
+
+If you don't want to build the package, you can grab it from the dist/ directory.
 
 How to install
 --------------

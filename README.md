@@ -1,3 +1,9 @@
+> ##Note on continued support
+> Please be aware that this repository is not on my list of priorities.  I wrote this on a lark one afternoon, quite a while ago.
+> Since then, I've moved on to other things, including a new job and other hobbies.  _Meanwhile_, the jade project was renamed to [pug](https://pugjs.org/api/getting-started.html).
+>
+> If someone would like to take this code and update it to support the new [pug](https://pugjs.org/api/getting-started.html) project, let me know and I'll place a redirect here to your project.
+
 koala-jade
 ==========
 
